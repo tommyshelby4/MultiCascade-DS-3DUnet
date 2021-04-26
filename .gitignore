@@ -1,0 +1,6 @@
+# default ignored files
+__pycache__/
+*.npy
+*.nii
+*.iml
+*.pt
